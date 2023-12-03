@@ -1,0 +1,157 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/18.1
+vb2d_display
+Z0 !s110 1701348881
+!i10b 1
+!s100 O;0lfP3UN]ULhk?^;d`Ka1
+IR9f2G3C04cjG=kEoLAcmJ1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/GraduateThesis/Modelsim/lab5
+w1701095598
+8D:/GraduateThesis/Modelsim/lab5/b2d_display.v
+FD:/GraduateThesis/Modelsim/lab5/b2d_display.v
+L0 2
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1701348880.000000
+!s107 D:/GraduateThesis/Modelsim/lab5/b2d_display.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/GraduateThesis/Modelsim/lab5/b2d_display.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vcounter
+Z7 !s110 1701348880
+!i10b 1
+!s100 `PWgYF1Fo8_2:YFInV>=;0
+IgdPBkQc:7@aGH2_RNW;o72
+R1
+R2
+Z8 w1701094533
+Z9 8D:/GraduateThesis/Modelsim/lab5/part1.v
+Z10 FD:/GraduateThesis/Modelsim/lab5/part1.v
+L0 9
+R3
+r1
+!s85 0
+31
+R4
+Z11 !s107 D:/GraduateThesis/Modelsim/lab5/part1.v|
+Z12 !s90 -reportprogress|300|-work|work|-stats=none|D:/GraduateThesis/Modelsim/lab5/part1.v|
+!i113 1
+R5
+R6
+vcounter_mod_k
+R0
+!i10b 1
+!s100 HeigE`P=0j^PfcJQ]H=NN3
+IL1RnBBj3`z[Ta0nYiJeZX0
+R1
+R2
+w1701184432
+8D:/GraduateThesis/Modelsim/lab5/couter_mod_k.v
+FD:/GraduateThesis/Modelsim/lab5/couter_mod_k.v
+L0 2
+R3
+r1
+!s85 0
+31
+Z13 !s108 1701348881.000000
+!s107 D:/GraduateThesis/Modelsim/lab5/couter_mod_k.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/GraduateThesis/Modelsim/lab5/couter_mod_k.v|
+!i113 1
+R5
+R6
+vpart1
+R7
+!i10b 1
+!s100 Z71cY2aQdog2fhE;bjjEf2
+I;<hP>V<E>NIXh0M:CgGZ;2
+R1
+R2
+R8
+R9
+R10
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+R11
+R12
+!i113 1
+R5
+R6
+vpart2
+R0
+!i10b 1
+!s100 XaM4YbN1F`<UPj@=aI1>[3
+I=:z1`Jk?jFSNES31JZ5`@0
+R1
+R2
+w1701268893
+8D:/GraduateThesis/Modelsim/lab5/part2.v
+FD:/GraduateThesis/Modelsim/lab5/part2.v
+L0 2
+R3
+r1
+!s85 0
+31
+R13
+!s107 D:/GraduateThesis/Modelsim/lab5/part2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/GraduateThesis/Modelsim/lab5/part2.v|
+!i113 1
+R5
+R6
+vpart3
+R0
+!i10b 1
+!s100 ;7R`5^A7UJnBCD=U@cY]@2
+ImhjR]CdAoPkZ2b_DzCUPo2
+R1
+R2
+w1701348877
+8D:/GraduateThesis/Modelsim/lab5/part3.v
+FD:/GraduateThesis/Modelsim/lab5/part3.v
+L0 2
+R3
+r1
+!s85 0
+31
+R13
+!s107 D:/GraduateThesis/Modelsim/lab5/part3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/GraduateThesis/Modelsim/lab5/part3.v|
+!i113 1
+R5
+R6
+vtwo_digit_b2d_display
+R0
+!i10b 1
+!s100 OI]N2a;4Z1MX`LRLHXC9X1
+IoAXdc>oX;zC:TMef9YJG72
+R1
+R2
+w1701274760
+8D:/GraduateThesis/Modelsim/lab5/two_digit_b2d_display.v
+FD:/GraduateThesis/Modelsim/lab5/two_digit_b2d_display.v
+L0 2
+R3
+r1
+!s85 0
+31
+R13
+!s107 D:/GraduateThesis/Modelsim/lab5/two_digit_b2d_display.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/GraduateThesis/Modelsim/lab5/two_digit_b2d_display.v|
+!i113 1
+R5
+R6

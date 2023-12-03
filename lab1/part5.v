@@ -1,0 +1,35 @@
+///
+module part5(SW, LEDR, HEX3, HEX2, HEX1, HEX0);
+	input [9:0] SW;
+	output [9:0] LEDR;
+	output [6:0] HEX3, HEX2, HEX1, HEX0;
+	wire [1:0] out1, out2, out3, out4;
+	mux_2bit_4to1 OUT1(SW[9:8],SW[7:6],SW[5:4],SW[3:2],SW[1:0], out1);
+	mux_2bit_4to1 OUT2(SW[9:8],SW[5:4],SW[3:2],SW[1:0],SW[7:6], out2);
+	mux_2bit_4to1 OUT3(SW[9:8],SW[3:2],SW[1:0],SW[7:6],SW[5:4], out3);
+	mux_2bit_4to1 OUT4(SW[9:8],SW[1:0],SW[7:6],SW[5:4],SW[3:2], out4);
+	char_7seg h3(out1, HEX3);
+	char_7seg h2(out2, HEX2);
+	char_7seg h1(out3, HEX1);
+	char_7seg h0(out4, HEX0);
+	assign LEDR = SW;
+	
+endmodule
+
+module mux_2bit_4to1(S, X, Y, Z, T, OUT);
+	input [1:0] S, X, Y, Z, T;
+	output [1:0] OUT;
+	assign OUT = (S == 2'b00) ? X:
+				 (S == 2'b01) ? Y:
+				 (S == 2'b10) ? Z: T;
+endmodule
+
+module char_7seg(C, Display);
+	input [1:0] C;
+	output [6:0] Display;
+	assign Display = (C == 2'b00) ? 7'b0001001:    //d
+					 (C == 2'b01) ? 7'b0000110:    //E
+					 (C == 2'b10) ? 7'b1111001: 7'b1000000;
+endmodule
+
+				 

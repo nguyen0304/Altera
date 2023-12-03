@@ -1,0 +1,23 @@
+///master slave FF D
+module part3(SW, LEDR);
+	input [1:0] SW;
+	output LEDR[0];
+	
+	D_ff F0(SW[0], SW[1], LEDR[0]);
+endmodule
+module D_latch(En, D, Q);
+	input D, En;
+	output Q;
+	wire S_g, R_g, Qb;
+	assign S_g = ~(D&En); 
+	assign R_g = ~(~D&En);
+	assign Qb = ~(Q&R_g);
+	assign Q = ~(Qb&S_g);
+endmodule
+module D_ff(D, Clk, Q);
+	input D, Clk;
+	output Q;
+	wire Qm;
+	D_latch master(~Clk, D, Qm); 
+	D_latch slave(Clk, Qm, Q);
+endmodule

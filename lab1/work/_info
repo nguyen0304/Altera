@@ -1,0 +1,136 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/GraduateThesis
+vchar_7seg
+Z0 !s110 1699805369
+!i10b 1
+!s100 EDfaH2Y^Lb8a[0kUPo01`1
+IY2EIDn`QRBLbgaS`e3dFi3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/GraduateThesis/Modelsim/lab1
+Z3 w1699772148
+Z4 8D:/GraduateThesis/Modelsim/lab1/part5.v
+Z5 FD:/GraduateThesis/Modelsim/lab1/part5.v
+L0 27
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1699805369.000000
+Z8 !s107 D:/GraduateThesis/Modelsim/lab1/part5.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|D:/GraduateThesis/Modelsim/lab1/part5.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vmux_2bit_4to1
+R0
+!i10b 1
+!s100 11MX`7lz^7GlUIgon;6BG2
+I@mIQBCUc;<ACNGZ8_Wn=W3
+R1
+R2
+R3
+R4
+R5
+L0 19
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vpart2
+R0
+!i10b 1
+!s100 UkH>_cn:okN]C0I>QD83R3
+IDO@zD10GPAJWcLL4J`8=G2
+R1
+R2
+w1699632975
+8D:/GraduateThesis/Modelsim/lab1/part2.v
+FD:/GraduateThesis/Modelsim/lab1/part2.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 D:/GraduateThesis/Modelsim/lab1/part2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/GraduateThesis/Modelsim/lab1/part2.v|
+!i113 1
+R10
+R11
+vpart3
+R0
+!i10b 1
+!s100 c6A3Z:YMQ7a<=:iP8Jc`]2
+IVF^zZ@3H=>G`=V55Tzn:;1
+R1
+R2
+w1699632113
+8D:/GraduateThesis/Modelsim/lab1/part3.v
+FD:/GraduateThesis/Modelsim/lab1/part3.v
+L0 2
+R6
+r1
+!s85 0
+31
+R7
+!s107 D:/GraduateThesis/Modelsim/lab1/part3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/GraduateThesis/Modelsim/lab1/part3.v|
+!i113 1
+R10
+R11
+vpart4
+R0
+!i10b 1
+!s100 9C:S1bRm3oM1k=LBVSeLU0
+Ii`V09^3SkU1Rae=MS_GmD2
+R1
+R2
+w1699699599
+8D:/GraduateThesis/Modelsim/lab1/part4.v
+FD:/GraduateThesis/Modelsim/lab1/part4.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 D:/GraduateThesis/Modelsim/lab1/part4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/GraduateThesis/Modelsim/lab1/part4.v|
+!i113 1
+R10
+R11
+vpart5
+R0
+!i10b 1
+!s100 QLjfGOlK4>o`Q=`^;M2N_3
+IMO?VM5HSCT;c2Oh<7f5Nb1
+R1
+R2
+R3
+R4
+R5
+L0 2
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11

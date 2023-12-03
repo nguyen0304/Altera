@@ -1,0 +1,10 @@
+D:/GraduateThesis/Modelsim/lab7/part3.v {1 {vlog -work work -stats=none D:/GraduateThesis/Modelsim/lab7/part3.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+
+} {} {}} D:/GraduateThesis/Modelsim/lab7/part4.v {1 {vlog -work work -stats=none D:/GraduateThesis/Modelsim/lab7/part4.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+
+} {} {}} D:/GraduateThesis/Modelsim/lab7/part1.v {1 {vlog -work work -stats=none D:/GraduateThesis/Modelsim/lab7/part1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+
+} {} {}}

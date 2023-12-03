@@ -1,0 +1,117 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/18.1
+vcouter
+Z0 !s110 1701007016
+!i10b 1
+!s100 mB1eO>JDP91_m8VLd[KS73
+Ib[?=^eNElA1nLPj3M25YQ1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/GraduateThesis/Modelsim/lab4
+Z3 w1701007010
+Z4 8D:\GraduateThesis\Modelsim\lab4\part2.v
+Z5 FD:\GraduateThesis\Modelsim\lab4\part2.v
+L0 14
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1701007016.000000
+Z8 !s107 D:\GraduateThesis\Modelsim\lab4\part2.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|D:\GraduateThesis\Modelsim\lab4\part2.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vcouter_8bit
+Z12 !s110 1701006673
+!i10b 1
+!s100 E0U]BWfZ=>>6]A5b^Djj^3
+IgeoOTXh?eJZAT;2L7d:;l2
+R1
+R2
+Z13 w1700983974
+Z14 8D:/GraduateThesis/Modelsim/lab4/part1.v
+Z15 FD:/GraduateThesis/Modelsim/lab4/part1.v
+L0 12
+R6
+r1
+!s85 0
+31
+Z16 !s108 1701006673.000000
+Z17 !s107 D:/GraduateThesis/Modelsim/lab4/part1.v|
+Z18 !s90 -reportprogress|300|-work|work|-stats=none|D:/GraduateThesis/Modelsim/lab4/part1.v|
+!i113 1
+R10
+R11
+vDisplay_8bit_B2H
+R0
+!i10b 1
+!s100 9N03l?OAD4Z0dCn;iP7::0
+I3Y^bDTg;ANLJe0NAN<If=2
+R1
+R2
+R3
+R4
+R5
+L0 28
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@display_8bit_@b2@h
+vpart1
+R0
+!i10b 1
+!s100 9P_]@lJh:4bY:KOPUZ23U0
+I?kAJYTm1RPjK:e6>;ZHkj3
+R1
+R2
+R3
+R4
+R5
+L0 2
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vT_ff
+R12
+!i10b 1
+!s100 n5Gan0X1U1K00VU[JD?_N1
+I>mkd9Pg?hP4@5C<]QQ1lg0
+R1
+R2
+R13
+R14
+R15
+L0 35
+R6
+r1
+!s85 0
+31
+R16
+R17
+R18
+!i113 1
+R10
+R11
+n@t_ff

@@ -1,0 +1,94 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/18.1
+vfull_adder
+Z0 !s110 1701448674
+!i10b 1
+!s100 _G3BoJ;EX<b<LZA9`IW^A3
+I4RUQWNW[0ginN2aOF=SAY2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/GraduateThesis/Modelsim/lab6
+w1701356046
+8D:/GraduateThesis/Modelsim/lab6/full_adder.v
+FD:/GraduateThesis/Modelsim/lab6/full_adder.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1701448674.000000
+!s107 D:/GraduateThesis/Modelsim/lab6/full_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/GraduateThesis/Modelsim/lab6/full_adder.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vmultiplier
+!s110 1701448838
+!i10b 1
+!s100 V1<ZNAILCNzdiQabKQdQI2
+ICSoSUl:IQPFz]mQim8U1@0
+R1
+R2
+w1701448835
+8D:/GraduateThesis/Modelsim/lab6/multiplier.v
+FD:/GraduateThesis/Modelsim/lab6/multiplier.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1701448838.000000
+!s107 D:/GraduateThesis/Modelsim/lab6/multiplier.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/GraduateThesis/Modelsim/lab6/multiplier.v|
+!i113 1
+R5
+R6
+vpart1
+R0
+!i10b 1
+!s100 Fk6O]HH6ZJnaQGbC5i<Fm3
+I[aPK_4H;m52?B9g^S78[n3
+R1
+R2
+w1701444049
+8D:/GraduateThesis/Modelsim/lab6/part1.v
+FD:/GraduateThesis/Modelsim/lab6/part1.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/GraduateThesis/Modelsim/lab6/part1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/GraduateThesis/Modelsim/lab6/part1.v|
+!i113 1
+R5
+R6
+vpart2
+R0
+!i10b 1
+!s100 zFh0RUC=3zXRF<LBa;g7A3
+IjAF:oI=<8FGe9HBPNPf[@1
+R1
+R2
+w1701445813
+8D:\GraduateThesis\Modelsim\lab6\part2.v
+FD:\GraduateThesis\Modelsim\lab6\part2.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:\GraduateThesis\Modelsim\lab6\part2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\GraduateThesis\Modelsim\lab6\part2.v|
+!i113 1
+R5
+R6

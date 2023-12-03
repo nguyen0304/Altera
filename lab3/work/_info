@@ -1,0 +1,159 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/GraduateThesis/Modelsim/lab2
+vD_ff
+Z0 !s110 1700925402
+!i10b 1
+!s100 zdhcT?E>WhmXln8^F<iSI2
+In:CeW0bIo=;RWFOPkG1G11
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/GraduateThesis/Modelsim/lab3
+Z3 w1700925384
+Z4 8D:\GraduateThesis\Modelsim\lab3\part4.v
+Z5 FD:\GraduateThesis\Modelsim\lab3\part4.v
+L0 17
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1700925402.000000
+Z8 !s107 D:\GraduateThesis\Modelsim\lab3\part4.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|D:\GraduateThesis\Modelsim\lab3\part4.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+n@d_ff
+vD_latch
+R0
+!i10b 1
+!s100 HJV`oTFJKAT:eJAN0]4La1
+IgY<XI[7C1eGPPz>8CNF]W3
+R1
+R2
+R3
+R4
+R5
+L0 10
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@d_latch
+vpart1
+Z12 !s110 1700925313
+!i10b 1
+!s100 zSWmQghH4QIA^P>ZOkCDc3
+I5U^:>m[dR2?7E:fY?NG2i1
+R1
+R2
+w1700663028
+8D:/GraduateThesis/Modelsim/lab3/part1.v
+FD:/GraduateThesis/Modelsim/lab3/part1.v
+L0 2
+R6
+r1
+!s85 0
+31
+Z13 !s108 1700925313.000000
+!s107 D:/GraduateThesis/Modelsim/lab3/part1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/GraduateThesis/Modelsim/lab3/part1.v|
+!i113 1
+R10
+R11
+vpart1_tb
+R12
+!i10b 1
+!s100 7JYcV<;^17CdLP^8VBLb61
+I2Tb]LE;X:UeBT2g4o_B5U3
+R1
+R2
+w1700662726
+Z14 8D:/GraduateThesis/Modelsim/lab3/part1_tb.v
+Z15 FD:/GraduateThesis/Modelsim/lab3/part1_tb.v
+L0 3
+R6
+r1
+!s85 0
+31
+R13
+Z16 !s107 D:/GraduateThesis/Modelsim/lab3/part1_tb.v|
+Z17 !s90 -reportprogress|300|-work|work|-stats=none|D:/GraduateThesis/Modelsim/lab3/part1_tb.v|
+!i113 1
+R10
+R11
+vpart3
+R12
+!i10b 1
+!s100 7;:>TN_nSfK0QS<_>54[23
+IX@Je::bgz>39XC=^AdELZ0
+R1
+R2
+w1700920843
+8D:/GraduateThesis/Modelsim/lab3/part3.v
+FD:/GraduateThesis/Modelsim/lab3/part3.v
+L0 2
+R6
+r1
+!s85 0
+31
+R13
+!s107 D:/GraduateThesis/Modelsim/lab3/part3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/GraduateThesis/Modelsim/lab3/part3.v|
+!i113 1
+R10
+R11
+vpart4
+R0
+!i10b 1
+!s100 KW``HH;YeL[Xm]K^g]=IM2
+I[HE5Q30;o_SNU@gTfC<[b2
+R1
+R2
+R3
+R4
+R5
+L0 2
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vtestbench
+!s110 1700662536
+!i10b 1
+!s100 hjUSbzgi;giGYMVamN;K@2
+IeFJ5Ub:L6R55OEGXb@Ffj2
+R1
+R2
+w1546830836
+R14
+R15
+L0 3
+R6
+r1
+!s85 0
+31
+!s108 1700662536.000000
+R16
+R17
+!i113 1
+R10
+R11

@@ -1,0 +1,138 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/18.1
+vcircuitA
+Z0 !s110 1699974717
+!i10b 1
+!s100 KZ=2gPANY8PXbRo>OHDZH0
+Idjc>J0XYK;MPdOKVhTC593
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/GraduateThesis/Modelsim/lab2
+Z3 w1699805569
+Z4 8D:/GraduateThesis/Modelsim/lab2/part2.v
+Z5 FD:/GraduateThesis/Modelsim/lab2/part2.v
+L0 29
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1699974717.000000
+Z8 !s107 D:/GraduateThesis/Modelsim/lab2/part2.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|D:/GraduateThesis/Modelsim/lab2/part2.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+ncircuit@a
+vcomparator
+R0
+!i10b 1
+!s100 Ea@0i@Y=X:I6EP>2i1`eE1
+IV7JGh6DzgNR[LnM_1nJg>3
+R1
+R2
+R3
+R4
+R5
+L0 18
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vFA
+R0
+!i10b 1
+!s100 Kgmc@NIG44FibiNec?fD00
+IhB7PGkg9d_3>1?2b=e[QW1
+R1
+R2
+Z12 w1699974711
+Z13 8D:/GraduateThesis/Modelsim/lab2/part3.v
+Z14 FD:/GraduateThesis/Modelsim/lab2/part3.v
+L0 11
+R6
+r1
+!s85 0
+31
+R7
+Z15 !s107 D:/GraduateThesis/Modelsim/lab2/part3.v|
+Z16 !s90 -reportprogress|300|-work|work|-stats=none|D:/GraduateThesis/Modelsim/lab2/part3.v|
+!i113 1
+R10
+R11
+n@f@a
+vled_7seg
+R0
+!i10b 1
+!s100 Rf2R6<b[8O7l]`RPg^Z9E3
+ISW[lLo8iNLAmK@?JmJM_U1
+R1
+R2
+R3
+R4
+R5
+L0 40
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vpart2
+R0
+!i10b 1
+!s100 G[:UNbV_nXBk_4TbA<Ngl0
+I6_B1M2:iC5=:<n@i0NQ4`3
+R1
+R2
+R3
+R4
+R5
+L0 3
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vpart3
+R0
+!i10b 1
+!s100 9k>ZnSJhW]cKlOT=PV96<3
+I?>RLSbQAkzPG<DNTgITBJ0
+R1
+R2
+R12
+R13
+R14
+L0 2
+R6
+r1
+!s85 0
+31
+R7
+R15
+R16
+!i113 1
+R10
+R11
